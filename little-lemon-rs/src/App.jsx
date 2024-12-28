@@ -1,26 +1,25 @@
-import { ChakraProvider } from "@chakra-ui/react";
-import Header from "./components/Header";
-import LandingSection from "./components/LandingSection";
-import ProjectsSection from "./components/ProjectsSection";
-import ContactMeSection from "./components/ContactMeSection";
-import Footer from "./components/Footer";
-import { AlertProvider } from "./context/alertContext";
-import Alert from "./components/Alert";
+import { Box, Flex } from "@chakra-ui/react";
+import Header from "./components/react-components/Header";
+import Main from "./components/react-components/Main";
+import Footer from "./components/react-components/Footer";
 
+import "./App.css";
 function App() {
   return (
-    <ChakraProvider>
-      <AlertProvider>
-        <main>
-          <Header />
-          <LandingSection />
-          <ProjectsSection />
-          <ContactMeSection />
-          <Footer />
-          <Alert />
-        </main>
-      </AlertProvider>
-    </ChakraProvider>
+    <Flex direction="column" minHeight="100vh">
+      {/* Header */}
+      <Box as="header" height="80px">
+        <Header />
+      </Box>
+
+      {/* Main Content */}
+      <Box as="main" flex="1" py={8}>
+        <Main />
+      </Box>
+
+      {/* Footer */}
+      <Footer />
+    </Flex>
   );
 }
 
