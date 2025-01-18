@@ -2,12 +2,10 @@
 
 
 
-# 🍋 Little Lemon Restaurant Online Reservation System  
+# 🍋 Little Lemon Restaurant Table Booking System  
 ---
 
-![image](https://github.com/user-attachments/assets/0949307e-d9ac-4c34-9e6c-45df9a09cd42)
-
-Welcome to the **Little Lemon Restaurant Online Reservation System**! This capstone project is part of the Meta Front End Development course, showcasing the use of **React Hooks**, **HTML**, and **CSS** to create an intuitive and responsive reservation system.  
+Welcome to the **Little Lemon Restaurant Table Booking System**! This capstone project is part of the Meta Front End Development course, showcasing the use of **React Hooks**, **HTML**, and **CSS** to create an intuitive and responsive reservation system.  
 
 ---
 
