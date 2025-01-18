@@ -36,7 +36,7 @@ Welcome to the **Little Lemon Restaurant Online Reservation System**! This capst
 
 - *Rachna Shah*
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/shah-rachna)  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shah-rachna)  
 
 ---
 
