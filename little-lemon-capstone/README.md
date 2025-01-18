@@ -34,9 +34,9 @@ Welcome to the **Little Lemon Restaurant Online Reservation System**! This capst
 
 ## 👩‍💻 Developed By  
 
-- **Prashid Dilshan**  
+- *Rachna Shah*
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/prashid-dilshan-ba054529b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) or check out my [Portfolio](#).  
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/shah-rachna)  
 
 ---
 
